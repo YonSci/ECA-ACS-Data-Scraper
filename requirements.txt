@@ -4,6 +4,5 @@ numpy
 pandas
 requests
 streamlit
-json
 datetime
 re
