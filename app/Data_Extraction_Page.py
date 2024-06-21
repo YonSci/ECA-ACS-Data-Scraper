@@ -12,6 +12,10 @@ import os
 
 
 def Data_Extraction_Page():
+
+    keywords = None
+
+    
     st.title("Data Extraction Module 📊")
 
 
